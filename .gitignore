@@ -3,3 +3,7 @@
 
 # Ignore states_to_learn.csv
 states_to_learn.csv
+
+
+# Local configuration files
+*.idea/
