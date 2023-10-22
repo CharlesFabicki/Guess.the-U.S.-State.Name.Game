@@ -2,6 +2,9 @@
 
 Python program to guess U.S. states and visualize them on a map.
 
+## ScreenShot
+![USA](https://github.com/CharlesFabicki/Guess.the-U.S.-State.Name.Game/assets/103677730/4ad3ac99-dcb3-4532-a078-9c725fdf41d8)
+
 ## Requirements
 
 - Python 3.x
@@ -17,9 +20,10 @@ pip install pandas
 ```
 ## Usage
 
-1. Run the game:
-   python Guess-USA-State.Name.py
-
+1. Run the game: 
+```   
+python Guess-USA-State.Name.py
+```
 2. Guess states; type "Exit" to quit.
 3. Missed states are saved in `states_to_learn.csv`.
 
